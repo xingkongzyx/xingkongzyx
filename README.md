@@ -1,9 +1,13 @@
 # Greetings Fellow Creators! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="8%">
+
 ### 👋 I'm an Master of computer engineering student at the University of Illinois at Urbana-Champaign (UIUC)
 
-![](https://github-readme-stats.vercel.app/api?username=xingkongzyx&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=xingkongzyx&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 ### Technologies & Toolkit:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xingkongzyx)](https://github.com/xingkongzyx/github-readme-stats)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
