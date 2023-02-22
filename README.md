@@ -1,9 +1,9 @@
-### 👋 Hi there, I'm an Master of computer engineering student at the University of Illinois at Urbana-Champaign (UIUC)
+# Greetings Fellow Creators! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="8%">
+### 👋 Hi, I'm an Master of computer engineering student at the University of Illinois at Urbana-Champaign (UIUC)
 
 ![](https://github-readme-stats.vercel.app/api?username=xingkongzyx&show_icons=true&theme=radical)
 
-#### A subset of my technical skills
-
+### Technologies & Toolkit:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
