@@ -1,5 +1,5 @@
 # Greetings Fellow Creators! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="8%">
-### 👋 Hi, I'm an Master of computer engineering student at the University of Illinois at Urbana-Champaign (UIUC)
+### 👋 I'm an Master of computer engineering student at the University of Illinois at Urbana-Champaign (UIUC)
 
 ![](https://github-readme-stats.vercel.app/api?username=xingkongzyx&show_icons=true&theme=radical)
 
